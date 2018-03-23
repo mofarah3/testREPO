@@ -1,7 +1,7 @@
 # testREPO
 
-##This is an intro to working with markdown files
+## This is an intro to working with markdown files
 
-###Hello World!
+### Hello World!
 
-*How is everything?
+* How is everything?
